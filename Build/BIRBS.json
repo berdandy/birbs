@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "BIRBS.data.unityweb",
+"asmCodeUrl": "BIRBS.asm.code.unityweb",
+"asmMemoryUrl": "BIRBS.asm.memory.unityweb",
+"asmFrameworkUrl": "BIRBS.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
